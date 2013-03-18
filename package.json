@@ -1,0 +1,28 @@
+{
+  "name": "git-to-js",
+  "version": "0.0.0",
+  "description": "translate git raw objects into javascript objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/git-to-js.git"
+  },
+  "keywords": [
+    "git",
+    "raw",
+    "object",
+    "conversion"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us>",
+  "license": "MIT",
+  "gitHead": "2fc43a35f818e5081414d6642a79634bc4e74dde",
+  "dependencies": {
+    "git-object-blob": "0.0.1",
+    "git-object-commit": "0.0.2",
+    "git-object-tag": "0.0.1",
+    "git-object-tree": "0.0.1"
+  }
+}
