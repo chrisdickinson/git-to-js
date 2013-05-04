@@ -21,8 +21,8 @@
   "gitHead": "2fc43a35f818e5081414d6642a79634bc4e74dde",
   "dependencies": {
     "git-object-blob": "0.0.1",
-    "git-object-commit": "0.0.3",
-    "git-object-tag": "0.0.1",
-    "git-object-tree": "0.0.2"
+    "git-object-commit": "0.0.4",
+    "git-object-tag": "0.0.2",
+    "git-object-tree": "0.0.3"
   }
 }
