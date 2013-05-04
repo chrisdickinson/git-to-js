@@ -1,6 +1,6 @@
 {
   "name": "git-to-js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "translate git raw objects into javascript objects",
   "main": "index.js",
   "scripts": {
