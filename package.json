@@ -22,7 +22,7 @@
   "dependencies": {
     "git-object-blob": "0.0.1",
     "git-object-commit": "0.0.4",
-    "git-object-tag": "0.0.2",
+    "git-object-tag": "0.0.3",
     "git-object-tree": "0.0.3"
   }
 }
