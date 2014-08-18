@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "git-object-blob": "~0.0.1",
-    "git-object-commit": "~0.0.7",
+    "git-object-commit": "^1.0.0",
     "git-object-tag": "~0.0.5",
     "git-object-tree": "~0.0.5"
   }
