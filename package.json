@@ -19,9 +19,9 @@
   "author": "Chris Dickinson <chris@neversaw.us>",
   "license": "MIT",
   "dependencies": {
-    "git-object-blob": "~0.0.1",
+    "git-object-blob": "^1.0.0",
     "git-object-commit": "^1.0.0",
-    "git-object-tag": "~0.0.5",
-    "git-object-tree": "~0.0.5"
+    "git-object-tag": "^1.0.0",
+    "git-object-tree": "^1.0.0"
   }
 }
